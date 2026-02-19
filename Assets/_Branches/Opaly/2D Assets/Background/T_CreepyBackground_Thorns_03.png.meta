@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: c2f48c5b2325a684eb65b796c76dbecd
+guid: 22fabdc2d54c8204b87b8150df5a0a98
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 329516905799145937
-    second: T_NormalBackground_Thorns_01_0
+      213: -8977318694055337022
+    second: T_CreepyBackground_Thorns_03_0
   - first:
-      213: 7642409726250735050
-    second: T_NormalBackground_Thorns_01_1
+      213: -2371231534009640218
+    second: T_CreepyBackground_Thorns_03_1
   - first:
-      213: 3755476672006833185
-    second: T_NormalBackground_Thorns_01_2
+      213: 1877549835316136281
+    second: T_CreepyBackground_Thorns_03_2
   - first:
-      213: -5108026525357872118
-    second: T_NormalBackground_Thorns_01_3
+      213: 5138877138975116930
+    second: T_CreepyBackground_Thorns_03_3
   - first:
-      213: -5352258518447577883
-    second: T_NormalBackground_Thorns_01_4
+      213: 325209875239475360
+    second: T_CreepyBackground_Thorns_03_4
   - first:
-      213: -3546525279724003636
-    second: T_NormalBackground_Thorns_01_5
+      213: -5328478042954034159
+    second: T_CreepyBackground_Thorns_03_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,13 +55,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -128,10 +128,54 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: T_NormalBackground_Thorns_01_0
+      name: T_CreepyBackground_Thorns_03_0
       rect:
         serializedVersion: 2
-        x: 63
+        x: 65
+        y: 0
+        width: 231
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ab5d26382a6380800000000000000
+      internalID: -8977318694055337022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_CreepyBackground_Thorns_03_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 319
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea962fab71b71fd0800000000000000
+      internalID: -2371231534009640218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_CreepyBackground_Thorns_03_2
+      rect:
+        serializedVersion: 2
+        x: 615
         y: 0
         width: 295
         height: 566
@@ -143,105 +187,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d9d4a541eda29400800000000000000
-      internalID: 329516905799145937
+      spriteID: 9598c16a0a56e0a10800000000000000
+      internalID: 1877549835316136281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: T_NormalBackground_Thorns_01_1
+      name: T_CreepyBackground_Thorns_03_3
       rect:
         serializedVersion: 2
-        x: 317
-        y: 0
-        width: 319
-        height: 387
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac55a21a72b4f0a60800000000000000
-      internalID: 7642409726250735050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: T_NormalBackground_Thorns_01_2
-      rect:
-        serializedVersion: 2
-        x: 677
-        y: 0
-        width: 231
-        height: 159
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 124cb35c2222e1430800000000000000
-      internalID: 3755476672006833185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: T_NormalBackground_Thorns_01_3
-      rect:
-        serializedVersion: 2
-        x: 1012
-        y: 0
-        width: 231
-        height: 159
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0c65cc40f4ac19b0800000000000000
-      internalID: -5108026525357872118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: T_NormalBackground_Thorns_01_4
-      rect:
-        serializedVersion: 2
-        x: 1284
-        y: 0
-        width: 319
-        height: 387
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e4afd52c35f8b5b0800000000000000
-      internalID: -5352258518447577883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: T_NormalBackground_Thorns_01_5
-      rect:
-        serializedVersion: 2
-        x: 1562
+        x: 1027
         y: 0
         width: 297
         height: 566
@@ -253,8 +209,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cce9b136c0638cec0800000000000000
-      internalID: -3546525279724003636
+      spriteID: 28eccfce785f05740800000000000000
+      internalID: 5138877138975116930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_CreepyBackground_Thorns_03_4
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 0
+        width: 319
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8191398a0638400800000000000000
+      internalID: 325209875239475360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_CreepyBackground_Thorns_03_5
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 0
+        width: 231
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114914093717d06b0800000000000000
+      internalID: -5328478042954034159
       vertices: []
       indices: 
       edges: []
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -273,12 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      T_NormalBackground_Thorns_01_0: 329516905799145937
-      T_NormalBackground_Thorns_01_1: 7642409726250735050
-      T_NormalBackground_Thorns_01_2: 3755476672006833185
-      T_NormalBackground_Thorns_01_3: -5108026525357872118
-      T_NormalBackground_Thorns_01_4: -5352258518447577883
-      T_NormalBackground_Thorns_01_5: -3546525279724003636
+      T_CreepyBackground_Thorns_03_0: -8977318694055337022
+      T_CreepyBackground_Thorns_03_1: -2371231534009640218
+      T_CreepyBackground_Thorns_03_2: 1877549835316136281
+      T_CreepyBackground_Thorns_03_3: 5138877138975116930
+      T_CreepyBackground_Thorns_03_4: 325209875239475360
+      T_CreepyBackground_Thorns_03_5: -5328478042954034159
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
